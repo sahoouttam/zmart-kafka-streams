@@ -1,0 +1,30 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+out/
+
+# Logs / local output
+*.log
+run.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kafka Streams local state (if you ever set state.dir inside the project)
+state-store/
+kafka-streams-state/
